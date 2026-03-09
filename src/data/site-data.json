@@ -1,0 +1,57 @@
+{
+  "business": {
+    "name": "Clinica Veterinaria SAGUNT",
+    "tagline": "Tu Clínica Veterinaria de Confianza en Sagunto.",
+    "description": "En Clínica Veterinaria SAGUNT, nos dedicamos a la salud y bienestar de tus animales de compañía con profesionalidad y cariño. Nuestro equipo experimentado ofrece una atención integral y personalizada, garantizando la tranquilidad que necesitas para tus seres queridos. Estamos comprometidos con ofrecer un servicio de calidad en el corazón de Sagunto.",
+    "phone": "+34 962 65 13 58",
+    "address": "C. de la Rosa, 29, 46500 Sagunt, Valencia, España",
+    "email": "info@clinicaveterinariasagunt.es",
+    "rating": 4.7,
+    "reviewCount": 88,
+    "hours": ["Monday: 10:30 AM – 1:30 PM, 5:00 – 8:00 PM","Tuesday: 10:30 AM – 1:30 PM, 5:00 – 8:00 PM","Wednesday: 10:30 AM – 1:30 PM, 5:00 – 8:00 PM","Thursday: 10:30 AM – 1:30 PM, 5:00 – 8:00 PM","Friday: 10:30 AM – 1:30 PM, 5:00 – 8:00 PM","Saturday: Closed","Sunday: Closed"]
+  },
+  "theme": {
+    "primary": "#4CAF50",
+    "secondary": "#212121",
+    "accent": "#FFC107",
+    "mode": "dark"
+  },
+  "hero": {
+    "headline": "Cuidado Experto y Cariñoso para tus Mascotas en Sagunto.",
+    "subheadline": "Ofrecemos atención veterinaria integral, desde medicina preventiva hasta cirugías avanzadas, con un equipo dedicado a la salud y felicidad de tu compañero.",
+    "cta1": { "text": "Pedir Cita", "href": "#contact" },
+    "cta2": { "text": "Nuestros Servicios", "href": "#services" },
+    "imageUrl": "https://places.googleapis.com/v1/places/ChIJx8YY2hEVYA0RTBj6Nm7qz-0/photos/ATCDNfXWYWhpDn5GqDJK6OCsa1SJI1Qbjq_2yfoPH1T9udZ20wwsndIsmz_xvfH8ZiGR6The3jADEL6lmr9uEeFXJ3je0djx1qcECXlcnGWiVGTyq4ymGubuJBVas_VMbTcr701TTM2VanH5yB8th2xON1RKICnjuC5FboDN-h0IcNvj_spwfOEXulCWLT2sMUIO-UEA2lFTzBiR-7t_18MEg_nouQHQvNpkHmZGcz8S1NNqqcprmBZCaS1KisUod6t9ftnu7KbO25La1tFD3FvFDPDLuk78oBpdTiEVJIMVcfUgwZchq_Quza6djjtazEpNGL9V7E4W2g6Brn_aMQY7duqngcCOUQZ9PKJ0S2HlKaj32vD7Rw1yhOB5K9pjwFK7NHUqwZIk_vcGnkjHRl10jtH_tlDeG-PkEJ2AaIPtUiqUvWnA_CCBCPznal9aktFK/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8"
+  },
+  "services": [
+    { "icon": "🩺", "title": "Medicina Preventiva y Chequeos", "description": "Realizamos revisiones periódicas y programas de vacunación/desparasitación personalizados para mantener a tu mascota sana. Detectamos a tiempo cualquier problema de salud, garantizando una vida larga y feliz." },
+    { "icon": "⚕️", "title": "Cirugía Avanzada y Postoperatorio", "description": "Nuestro equipo realiza intervenciones quirúrgicas con los más altos estándares de seguridad y cuidado. Ofrecemos hospitalización y seguimiento para una recuperación óptima y confortable." },
+    { "icon": "🔬", "title": "Diagnóstico Preciso", "description": "Contamos con tecnología de vanguardia como radiografías, ecografías y análisis de laboratorio. Esto nos permite obtener diagnósticos rápidos y precisos para el tratamiento más efectivo." },
+    { "icon": "🩹", "title": "Atención Especializada y Urgencias", "description": "Atendemos urgencias veterinarias dentro de nuestro horario para ofrecer una respuesta rápida cuando más lo necesitas. Además, te ofrecemos acceso a diferentes especialidades para un cuidado completo." }
+  ],
+  "about": {
+    "title": "Tu Clínica Veterinaria de Confianza en Sagunto",
+    "text": "En Clínica Veterinaria SAGUNT, nuestra pasión es el bienestar animal. Desde hace años, nos hemos dedicado a ofrecer un servicio veterinario excepcional en la comunidad de Sagunto, basándonos en la experiencia, la tecnología y, sobre todo, un profundo amor por los animales. <br><br>Entendemos que tu mascota es parte de tu familia, por eso cada consulta y tratamiento se realiza con la máxima dedicación y empatía. Nos esforzamos por crear un ambiente cálido y seguro donde tanto tú como tu compañero se sientan cómodos y bien atendidos. <br><br>Nuestro compromiso va más allá de la consulta; es educar y apoyar a nuestros clientes en el cuidado diario de sus mascotas, fomentando una relación duradera basada en la confianza y el respeto mutuo.",
+    "imageUrl": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1200&q=80"
+  },
+  "gallery": [
+    { "url": "https://places.googleapis.com/v1/places/ChIJx8YY2hEVYA0RTBj6Nm7qz-0/photos/ATCDNfXWYWhpDn5GqDJK6OCsa1SJI1Qbjq_2yfoPH1T9udZ20wwsndIsmz_xvfH8ZiGR6The3jADEL6lmr9uEeFXJ3je0djx1qcECXlcnGWiVGTyq4ymGubuJBVas_VMbTcr701TTM2VanH5yB8th2xON1RKICnjuC5FboDN-h0IcNvj_spwfOEXulCWLT2sMUIO-UEA2lFTzBiR-7t_18MEg_nouQHQvNpkHmZGcz8S1NNqqcprmBZCaS1KisUod6t9ftnu7KbO25La1tFD3FvFDPDLuk78oBpdTiEVJIMVcfUgwZchq_Quza6djjtazEpNGL9V7E4W2g6Brn_aMQY7duqngcCOUQZ9PKJ0S2HlKaj32vD7Rw1yhOB5K9pjwFK7NHUqwZIk_vcGnkjHRl10jtH_tlDeG-PkEJ2AaIPtUiqUvWnA_CCBCPznal9aktFK/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Fachada de Clínica Veterinaria SAGUNT en Sagunto, Valencia." },
+    { "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1200&q=80", "alt": "Veterinario examinando a un perro con cariño y profesionalidad." },
+    { "url": "https://images.unsplash.com/photo-1504813184591-01572f98c85f?w=1200&q=80", "alt": "Perro recibiendo atención y mimos en un ambiente de clínica veterinaria." }
+  ],
+  "testimonials": [
+    { "name": "Sofía Ramos", "stars": 5, "text": "La mejor clínica de Sagunto sin duda. Tratan a mi gato con un cariño increíble y siempre resuelven todas mis dudas. ¡Muy recomendables!" },
+    { "name": "Pablo Giménez", "stars": 5, "text": "Llevo años confiando la salud de mi perro aquí. El equipo es muy profesional y atento. Siempre salgo tranquilo sabiendo que está en las mejores manos." },
+    { "name": "Carmen López", "stars": 4, "text": "Me gustó mucho el trato, son muy amables y explican todo con claridad. La atención fue excelente y mi mascota se sintió cómoda en todo momento." }
+  ],
+  "contact": {
+    "title": "Asegura la Salud de tu Mejor Amigo",
+    "subtitle": "Contáctanos hoy mismo para agendar una cita o resolver cualquier consulta. Estamos aquí para ayudarte.",
+    "whatsappNumber": "+34 962 65 13 58",
+    "showMap": true,
+    "mapQuery": "Clinica Veterinaria SAGUNT C. de la Rosa, 29, 46500 Sagunt, Valencia, España"
+  },
+  "footer": {
+    "copyright": "© 2026 Clinica Veterinaria SAGUNT"
+  }
+}
